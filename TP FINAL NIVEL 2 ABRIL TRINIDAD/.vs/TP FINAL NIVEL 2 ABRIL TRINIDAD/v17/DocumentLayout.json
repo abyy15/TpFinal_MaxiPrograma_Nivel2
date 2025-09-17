@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A205F118-8B52-4108-8272-D0A48132C7E9}|TP FINAL NIVEL 2 ABRIL TRINIDAD\\TP FINAL NIVEL 2 ABRIL TRINIDAD.csproj|C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\tp final nivel 2 abril trinidad\\cat\u00E1logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A205F118-8B52-4108-8272-D0A48132C7E9}|TP FINAL NIVEL 2 ABRIL TRINIDAD\\TP FINAL NIVEL 2 ABRIL TRINIDAD.csproj|solutionrelative:tp final nivel 2 abril trinidad\\cat\u00E1logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A205F118-8B52-4108-8272-D0A48132C7E9}|TP FINAL NIVEL 2 ABRIL TRINIDAD\\TP FINAL NIVEL 2 ABRIL TRINIDAD.csproj|C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\tp final nivel 2 abril trinidad\\cat\u00E1logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A205F118-8B52-4108-8272-D0A48132C7E9}|TP FINAL NIVEL 2 ABRIL TRINIDAD\\TP FINAL NIVEL 2 ABRIL TRINIDAD.csproj|solutionrelative:tp final nivel 2 abril trinidad\\cat\u00E1logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F0529C-DD01-46FD-B9F5-D311B6D04ED9}|Negocio\\Negocio.csproj|C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87F0529C-DD01-46FD-B9F5-D311B6D04ED9}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A205F118-8B52-4108-8272-D0A48132C7E9}|TP FINAL NIVEL 2 ABRIL TRINIDAD\\TP FINAL NIVEL 2 ABRIL TRINIDAD.csproj|c:\\users\\artor\\desktop\\programacion\\programacion 3\\0 - tp maxi\\tp final nivel 2\\tpfinal_maxiprograma_nivel2\\tp final nivel 2 abril trinidad\\tp final nivel 2 abril trinidad\\cat\u00E1logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A205F118-8B52-4108-8272-D0A48132C7E9}|TP FINAL NIVEL 2 ABRIL TRINIDAD\\TP FINAL NIVEL 2 ABRIL TRINIDAD.csproj|solutionrelative:tp final nivel 2 abril trinidad\\cat\u00E1logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0529C-DD01-46FD-B9F5-D311B6D04ED9}|Negocio\\Negocio.csproj|C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0529C-DD01-46FD-B9F5-D311B6D04ED9}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4CE9B89-34A1-4B69-8275-E7D9C2BAE830}|dominioo\\Dominio.csproj|C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\dominioo\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4CE9B89-34A1-4B69-8275-E7D9C2BAE830}|dominioo\\Dominio.csproj|solutionrelative:dominioo\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F0529C-DD01-46FD-B9F5-D311B6D04ED9}|Negocio\\Negocio.csproj|c:\\users\\artor\\desktop\\programacion\\programacion 3\\0 - tp maxi\\tp final nivel 2\\tpfinal_maxiprograma_nivel2\\tp final nivel 2 abril trinidad\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87F0529C-DD01-46FD-B9F5-D311B6D04ED9}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87F0529C-DD01-46FD-B9F5-D311B6D04ED9}|Negocio\\Negocio.csproj|C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0529C-DD01-46FD-B9F5-D311B6D04ED9}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87F0529C-DD01-46FD-B9F5-D311B6D04ED9}|Negocio\\Negocio.csproj|C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F0529C-DD01-46FD-B9F5-D311B6D04ED9}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4CE9B89-34A1-4B69-8275-E7D9C2BAE830}|dominioo\\Dominio.csproj|c:\\users\\artor\\desktop\\programacion\\programacion 3\\0 - tp maxi\\tp final nivel 2\\tpfinal_maxiprograma_nivel2\\tp final nivel 2 abril trinidad\\dominioo\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4CE9B89-34A1-4B69-8275-E7D9C2BAE830}|dominioo\\Dominio.csproj|C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\dominioo\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4CE9B89-34A1-4B69-8275-E7D9C2BAE830}|dominioo\\Dominio.csproj|solutionrelative:dominioo\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{F4CE9B89-34A1-4B69-8275-E7D9C2BAE830}|dominioo\\dominioo.csproj|solutionrelative:dominioo\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4CE9B89-34A1-4B69-8275-E7D9C2BAE830}|dominioo\\Dominio.csproj|c:\\users\\artor\\desktop\\programacion\\programacion 3\\0 - tp maxi\\tp final nivel 2\\tpfinal_maxiprograma_nivel2\\tp final nivel 2 abril trinidad\\dominioo\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4CE9B89-34A1-4B69-8275-E7D9C2BAE830}|dominioo\\Dominio.csproj|C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\dominioo\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4CE9B89-34A1-4B69-8275-E7D9C2BAE830}|dominioo\\Dominio.csproj|solutionrelative:dominioo\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CategoriaNegocio.cs",
               "DocumentMoniker": "C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\Negocio\\CategoriaNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MarcaNegocio.cs",
               "DocumentMoniker": "C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\Negocio\\MarcaNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\MarcaNegocio.cs",
@@ -92,12 +92,11 @@
               "RelativeToolTip": "Negocio\\MarcaNegocio.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T22:59:34.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T22:59:34.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Cat\u00E1logo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\Cat\u00E1logo.cs",
               "RelativeDocumentMoniker": "TP FINAL NIVEL 2 ABRIL TRINIDAD\\Cat\u00E1logo.cs",
@@ -109,13 +108,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Cat\u00E1logo.cs",
               "DocumentMoniker": "C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\Cat\u00E1logo.cs",
               "RelativeDocumentMoniker": "TP FINAL NIVEL 2 ABRIL TRINIDAD\\Cat\u00E1logo.cs",
               "ToolTip": "C:\\Users\\artor\\Desktop\\PROGRAMACION\\PROGRAMACION 3\\0 - tp maxi\\TP FINAL NIVEL 2\\TpFinal_MaxiPrograma_Nivel2\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\TP FINAL NIVEL 2 ABRIL TRINIDAD\\Cat\u00E1logo.cs",
               "RelativeToolTip": "TP FINAL NIVEL 2 ABRIL TRINIDAD\\Cat\u00E1logo.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA/wCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T20:01:44.345Z",
               "EditorCaption": ""
@@ -130,8 +129,7 @@
               "RelativeToolTip": "Negocio\\ArticuloNegocio.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:09:45.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T20:09:45.648Z"
             },
             {
               "$type": "Document",
@@ -143,8 +141,7 @@
               "RelativeToolTip": "dominioo\\Articulo.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T19:49:23.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T19:49:23.328Z"
             },
             {
               "$type": "Document",
@@ -156,8 +153,7 @@
               "RelativeToolTip": "dominioo\\Categorias.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T19:57:44.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T19:57:44.185Z"
             },
             {
               "$type": "Document",
@@ -169,8 +165,7 @@
               "RelativeToolTip": "Negocio\\AccesoDatos.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAkwCMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:11:28.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T20:11:28.056Z"
             },
             {
               "$type": "Document",

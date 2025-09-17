@@ -28,5 +28,10 @@ namespace TP_FINAL_NIVEL_2_ABRIL_TRINIDAD
         {
 
         }
+
+        private void bbtAgregarArticulos_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

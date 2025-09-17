@@ -1,0 +1,6 @@
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\0 - tp maxi\TP FINAL NIVEL 2\TpFinal_MaxiPrograma_Nivel2\TP FINAL NIVEL 2 ABRIL TRINIDAD\dominioo\bin\Debug\dominioo.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\0 - tp maxi\TP FINAL NIVEL 2\TpFinal_MaxiPrograma_Nivel2\TP FINAL NIVEL 2 ABRIL TRINIDAD\dominioo\bin\Debug\dominioo.pdb
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\0 - tp maxi\TP FINAL NIVEL 2\TpFinal_MaxiPrograma_Nivel2\TP FINAL NIVEL 2 ABRIL TRINIDAD\dominioo\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\0 - tp maxi\TP FINAL NIVEL 2\TpFinal_MaxiPrograma_Nivel2\TP FINAL NIVEL 2 ABRIL TRINIDAD\dominioo\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\0 - tp maxi\TP FINAL NIVEL 2\TpFinal_MaxiPrograma_Nivel2\TP FINAL NIVEL 2 ABRIL TRINIDAD\dominioo\obj\Debug\dominioo.dll
+C:\Users\artor\Desktop\PROGRAMACION\PROGRAMACION 3\0 - tp maxi\TP FINAL NIVEL 2\TpFinal_MaxiPrograma_Nivel2\TP FINAL NIVEL 2 ABRIL TRINIDAD\dominioo\obj\Debug\dominioo.pdb
