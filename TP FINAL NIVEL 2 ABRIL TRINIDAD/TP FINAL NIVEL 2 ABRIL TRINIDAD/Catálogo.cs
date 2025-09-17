@@ -23,5 +23,10 @@ namespace TP_FINAL_NIVEL_2_ABRIL_TRINIDAD
         {
             
         }
+
+        private void Catálogo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -7,19 +7,19 @@ using dominioo;
 
 namespace Negocio
 {
-    public class MarcaNegocio
-    {   
-        public List<Marca> listarMarcas()
+    public class CategoriaNegocio
+    {
+        public List<Categorias> listarCategorias()
         {
-            List<Marca> lista = new List<Marca>();
+            List<Categorias> lista = new List<dominioo.Categorias>();
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                datos.setConsulta("select Id, Descripcion from MARCAS");
+                datos.setConsulta("select Id, Descripcion from CATEGORIAS");
                 datos.ejecutarLectura();
                 while (datos.Lector.Read())
                 {
-                    Marca aux = new Marca();
+                    dominioo.Categorias aux = new dominioo.Categorias();
                     aux.Id = (int)datos.Lector["Id"];
                     aux.Descripcion = (string)datos.Lector["Descripcion"];
                     lista.Add(aux);
@@ -36,6 +36,5 @@ namespace Negocio
                 datos.cerrarConexion();
             }
         }
-
     }
 }
