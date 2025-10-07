@@ -8,33 +8,29 @@ using dominioo;
 namespace Negocio
 {
     public class MarcaNegocio
-    {   
+    {
+        AccesoDatos datos = new AccesoDatos();
         public List<Marca> listarMarcas()
         {
-            List<Marca> lista = new List<Marca>();
-            AccesoDatos datos = new AccesoDatos();
+            List<Marca> listaMarcas = new List<Marca>();
             try
             {
-                datos.setConsulta("select Id, Descripcion from MARCAS");
-                datos.ejecutarLectura();
+                datos.setQuery("Select Id, Descripcion from MARCAS");
+                datos.ejecutarRead();
                 while (datos.Lector.Read())
                 {
-                    Marca aux = new Marca();
-                    aux.Id = (int)datos.Lector["Id"];
-                    aux.Descripcion = (string)datos.Lector["Descripcion"];
-                    lista.Add(aux);
+                    Marca auxiliar = new Marca();
+                    auxiliar.IdMarca = (int)datos.Lector["Id"];
+                    auxiliar.Descripcion = (string)datos.Lector["Descripcion"];
+                    listaMarcas.Add(auxiliar);
                 }
-                return lista;
             }
             catch (Exception ex)
             {
                 throw ex;
             }
-            finally
-            {
-                datos.Lector.Close();
-                datos.cerrarConexion();
-            }
+
+            return listaMarcas;
         }
 
     }

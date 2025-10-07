@@ -30,13 +30,13 @@ namespace Negocio
             }
         }
 
-        public void setConsulta(string consulta)
+        public void setQuery(string consulta)
         {
             comando.CommandType = System.Data.CommandType.Text;
             comando.CommandText = consulta;
         }
 
-        public void ejecutarLectura ()
+        public void ejecutarRead ()
         {
             comando.Connection = conexion;
             try
@@ -55,7 +55,9 @@ namespace Negocio
             comando.Connection = conexion;
             try
             {
+                conexion.Open();
                 comando.ExecuteNonQuery();
+                cerrarConexion();
             }
             catch (Exception ex)
             {
@@ -63,9 +65,16 @@ namespace Negocio
             }
         }
 
-        public void cerrarConexion ()
+        public void cerrarConexion()
         {
+            if (lector != null)
+                lector.Close();
             conexion.Close();
         }
+        public void setearParametro(string nombre, object valor)
+        {
+            comando.Parameters.AddWithValue(nombre, valor);
+        }
+
     }
 }

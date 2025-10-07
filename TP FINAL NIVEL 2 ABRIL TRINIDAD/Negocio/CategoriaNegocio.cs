@@ -11,20 +11,20 @@ namespace Negocio
     {
         public List<Categorias> listarCategorias()
         {
-            List<Categorias> lista = new List<dominioo.Categorias>();
+            List<Categorias> listaCategorias = new List<dominioo.Categorias>();
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                datos.setConsulta("select Id, Descripcion from CATEGORIAS");
-                datos.ejecutarLectura();
+                datos.setQuery("Select Id, Descripcion from CATEGORIAS");
+                datos.ejecutarRead();
                 while (datos.Lector.Read())
                 {
-                    dominioo.Categorias aux = new dominioo.Categorias();
-                    aux.Id = (int)datos.Lector["Id"];
-                    aux.Descripcion = (string)datos.Lector["Descripcion"];
-                    lista.Add(aux);
+                    Categorias auxiliar = new Categorias();
+                    auxiliar.IdCategoria = (int)datos.Lector["Id"];
+                    auxiliar.Descripcion = (string)datos.Lector["Descripcion"];
+                    listaCategorias.Add(auxiliar);
                 }
-                return lista;
+                return listaCategorias;
             }
             catch (Exception ex)
             {
